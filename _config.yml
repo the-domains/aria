@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9806
+  lightness: 0.496621
+  rhythmicContrast: 0.242007
+  saturation: 0.862363
+cta: {}
+layout_spectrum: 1
+name: Aria
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.61036
