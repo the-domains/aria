@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.61036
 color:
   brandColors:
     - '#E0FBFC'
@@ -10,9 +10,10 @@ color:
   lightness: 0.496621
   rhythmicContrast: 0.242007
   saturation: 0.862363
-cta: {}
-layout_spectrum: 1
-name: Aria
 opengraph: {}
+layout_spectrum: 1
+analytics: {}
+name: Aria
+cta: {}
+title: Aria
 purpose: {}
-typography_spectrum: 0.61036
